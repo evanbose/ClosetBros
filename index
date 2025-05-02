@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ClosetBros | Custom Closets</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="ClosetBros Logo" class="logo" />
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="how-it-works.html">How It Works</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Built-In Closet Systems Tailored to You</h1>
+    <p>Design. Build. Install. Your dream closet, delivered.</p>
+    <a href="contact.html" class="btn">Get a Free Quote</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ClosetBros. All rights reserved.</p>
+  </footer>
+</body>
+</html>
