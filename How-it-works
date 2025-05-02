@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>How It Works - ClosetBros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>...same as index.html header...</header>
+  <section class="steps">
+    <h2>How It Works</h2>
+    <ol>
+      <li>Book a free design consultation</li>
+      <li>We build a custom plan and budget</li>
+      <li>Installation scheduled and completed</li>
+    </ol>
+  </section>
+  <footer>...same as index.html footer...</footer>
+</body>
+</html>
