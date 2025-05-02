@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fef8ef;
+  color: #333;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+}
+.logo {
+  height: 60px;
+}
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #d44a00;
+  font-weight: bold;
+}
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: #fff0e1;
+}
+.btn {
+  background: #d44a00;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 2rem;
+}
+.gallery-grid img {
+  width: 100%;
+  border-radius: 5px;
+}
+.contact-form form {
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.contact-form input, .contact-form textarea {
+  padding: 10px;
+  margin-bottom: 15px;
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #eee;
+}
